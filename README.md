@@ -1,4 +1,4 @@
 # AlgorithmPractice
 
-To prepare for a new job as scientific assistant in the subject "INF102 - Algorithms, Datastructures & Programming" at UiB, I spent some weeks working through the curriculum during the summer.
-This was purely done for practice and should be approached like a messy sketch book rather than than a structured project. 
+To prepare for a new job as scientific assistant in the subject "INF102 - Algorithms, Datastructures & Programming" at UiB, I spent some weeks working through the course curriculum during the summer.
+This collection of algorithms and datastructures is somewhat of a hot mess and was purely created for practice. This repository should be approached like a messy sketch book rather than than a structured, meaningful project. Show mercy!
