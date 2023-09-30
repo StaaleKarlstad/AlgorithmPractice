@@ -1,4 +1,4 @@
-package graph.MST;
+package Graph.MST;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -7,8 +7,8 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.Set;
 
-import graph.Edge;
-import graph.WeightedGraph;
+import Graph.Edge;
+import Graph.WeightedGraph;
 
 public class Prim<V, E> {
     

@@ -1,8 +1,8 @@
-package graph;
+package Graph;
 
-import graph.MST.Kruskal;
-import graph.MST.Prim;
-import graph.Pathfinding.DFS;
+import Graph.MST.Kruskal;
+import Graph.MST.Prim;
+import Graph.Pathfinding.DFS;
 
 public class GraphMain<V, E> {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package DataStructures;
 import java.util.ArrayList;
 
 /* Et binært søketre er en datastruktur bygget opp av noder, der hver node kan ha to barn.

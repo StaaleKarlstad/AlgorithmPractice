@@ -1,11 +1,12 @@
-package graph.MST;
+package Graph.MST;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import graph.Edge;
-import graph.WeightedGraph;
+
+import Graph.Edge;
+import Graph.WeightedGraph;
 
 public class Kruskal<V, E> {
    

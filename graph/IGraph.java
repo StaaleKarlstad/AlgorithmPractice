@@ -1,4 +1,4 @@
-package graph;
+package Graph;
 
 /**
  * This interface represents a graph

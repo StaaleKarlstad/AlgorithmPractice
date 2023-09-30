@@ -3,9 +3,7 @@
 Beskriver forholdet mellom tiden det tar for koden å kjøre og inputen den får inn.
 Vi vil vite hvordan kjøretiden vokser ved forskjellig størrelse på input
 
-Hvor rask er PCen? Hvor mange andre programmer kjører samtidig? Hvilket programmeringsspråk brukes?
-
-n = størrelsen på input
+Andre faktorer: Hvor rask er PCen? Hvor mange andre programmer kjører samtidig? Hvilket programmeringsspråk brukes?
 
 ## ArrayList
 
@@ -118,7 +116,7 @@ F.eks: ```HashMap<Integer, Boolean>``` sier at alle nøkler vi legger til i Hash
 Hver nøkkel er unik og rekkefølgen er tilfedlig. Det er derfor ikke sikkert at nøklene vil stå i samme orden som de ble lagt til i.  
 
     - get() 
-        - O(1)
+        - O(1) (Worst case N(logn))
     - put() 
         - O(1)
     - remove() 

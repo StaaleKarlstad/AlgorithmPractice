@@ -1,4 +1,4 @@
-package graph;
+package Graph;
 
 /**
  * Represents an edge in a graph.

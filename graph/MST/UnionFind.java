@@ -1,4 +1,4 @@
-package graph.MST;
+package Graph.MST;
 
 import java.util.HashMap;
 

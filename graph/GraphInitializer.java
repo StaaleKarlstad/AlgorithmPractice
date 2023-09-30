@@ -1,7 +1,11 @@
-package graph;
+package Graph;
 
 import java.util.ArrayList;
 import java.util.Random;
+
+/**
+ * Initializes a new graph
+ */
 
 public class GraphInitializer {    
 

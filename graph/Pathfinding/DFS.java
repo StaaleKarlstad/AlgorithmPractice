@@ -1,4 +1,4 @@
-package graph.Pathfinding;
+package Graph.Pathfinding;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Stack;
 
-import graph.Edge;
-import graph.WeightedGraph;
+import Graph.Edge;
+import Graph.WeightedGraph;
 
 public class DFS<V, E extends Comparable<E>> {
 
